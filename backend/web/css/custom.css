@@ -1,0 +1,472 @@
+.line-15 {
+  height: 15px;
+}
+.card-box.table-responsive {
+  margin-bottom: 90px !important;
+}
+.mod-header {
+  text-align: center;
+  margin-top: 10px;
+}
+.wrapper .container {
+  background: #fff;
+  padding: 25px;
+}
+input#problemlistsearch-globalsearch,
+#accommodationsearch-globalsearch {
+  margin-top: 5px;
+}
+.coverx {
+  background: #9a9a9a7d;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 999;
+  display: none;
+}
+.wr-list li {
+  padding: 3px 0px;
+}
+.paynow_box button {
+  margin-top: 20px;
+  width: 50%;
+  float: left;
+  padding: 15px;
+  background: #03965f;
+  color: #fff;
+  z-index: 999999;
+}
+.paynow_box {
+  background: #fff;
+  box-shadow: 0px 0px 5px 0px #b1b1b1;
+  top: 25%;
+  position: absolute;
+  width: 50%;
+  left: 25%;
+  z-index: 99990;
+  display: none;
+  padding: 20px;
+}
+.select2-container--default .select2-selection--single {
+  background-color: #fff;
+  border: 1px solid #ededed !important;
+  border-radius: 4px;
+  height: 33px !important;
+}
+.screen_height_item_area {
+  height: 570px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+button.close {
+  padding: 0;
+  cursor: pointer;
+  /* background: black !important; */
+  border: 0;
+  color: #000 !important;
+  -webkit-appearance: none;
+  opacity: 1 !important;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #2e3d51 !important;
+  border-color: #2e3d51 !important;
+}
+.modal-content {
+  height: auto;
+  overflow-x: scroll;
+}
+h5 {
+  font-weight: 700 !important;
+  margin-bottom: 20px !important;
+}
+div#ngo_budget_search_form,
+#w1,
+#w2,
+#w3,
+#w0 {
+  width: 100% !important;
+}
+.modal-dialog.modal-lg {
+  margin-top: -20% !important;
+  position: fixed;
+  height: 100vh !important;
+  width: 100% !important;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover {
+  color: #fff !important;
+  background-color: #2c3d51 !important;
+  border-radius: 0px;
+  padding: 10px 70px;
+}
+.box {
+  background: #fff;
+  padding: 30px;
+}
+/*.tab-content .col-md-4 {
+  margin-bottom: 25px;
+}*/
+.list_room .wr-room {
+  background: #3a4267d1;
+  text-align: center;
+  padding: 30px;
+  border-radius: 7px;
+  color: #fff;
+}
+ul.nav.nav-pills {
+  padding-bottom: 25px;
+}
+.nav-pills > li {
+  width: 32.8%;
+  text-align: center;
+}
+.nav-pills > li > a {
+  border-radius: 0px !important;
+  background: #efefef !important;
+  color: #3a495c !important;
+  padding: 10px 70px !important;
+}
+label {
+  /* font-weight: 700 !important; */
+}
+table.tablesaw.table.m-b-0.tablesaw-swipe > thead > tr > th > a {
+  color: #2b3d51;
+}
+select {
+  height: 33.5px;
+}
+.page-title {
+  background: whitesmoke;
+  padding-left: 30px;
+  margin-bottom: 20px !important;
+  border-left: 4px solid #1cb99a;
+}
+.v-space {
+  margin: 15px 0;
+}
+a.small-action {
+  padding: 0px 5px;
+}
+th.action-column {
+  width: 13%;
+}
+.form-select {
+  display: block;
+  width: 100%;
+}
+.checkbox.checkbox-inline {
+  margin-bottom: 10px;
+}
+/*FORM */
+.input-group .form-control:not(:first-child):not(:last-child),
+span.input-group-addon.picker,
+.input-group .form-control:last-child {
+  border-radius: 0px !important;
+}
+.setup-form {
+  margin: 25px 0;
+  /* min-height: 252px; */
+}
+.avata {
+  width: 20%;
+  border: 2px solid #a2a2a2;
+}
+/*HEADER*/
+a.logo img {
+  height: 40px;
+  margin-left: -20px;
+  /* padding: 5px 0; */
+}
+.panel-width {
+  width: 100%;
+}
+span.input-group-addon.picker {
+  width: 40px;
+}
+.station-select {
+  margin-top: 13px;
+  min-width: 300px;
+  margin-right: 20px;
+}
+/*Shortable*/
+.placeholder {
+  border: 1px solid green;
+  background-color: white;
+  -webkit-box-shadow: 0px 0px 10px #888;
+  -moz-box-shadow: 0px 0px 10px #888;
+  box-shadow: 0px 0px 10px #888;
+}
+.tile {
+  height: 100px;
+}
+.grid {
+  margin-top: 1em;
+}
+.dataTable > thead > tr > th > a {
+  color: #000;
+  font-weight: bold;
+}
+/*Station Form*/
+.intl-tel-input {
+  display: block !important;
+}
+.file label {
+  margin: 0;
+  padding: 6px 20px;
+  width: auto;
+  max-width: 500px;
+  height: auto;
+  background: none;
+  border: 1px solid #ccc;
+  color: #2b3d51;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+[type="file"] {
+  display: none;
+}
+
+#info {
+  display: none;
+  margin: 10px 0px;
+  padding: 10px 20px;
+  width: 400px;
+  height: auto;
+  overflow: hidden;
+  background: #f5f5f5;
+  border-radius: 3px;
+}
+
+#size span,
+#type span,
+#name span {
+  color: #ea4026;
+}
+
+#copyrights {
+  margin: 5% auto;
+  padding: 0;
+  width: 250px;
+  height: auto;
+  overflow: hidden;
+}
+/*Set up Left sidebar tab*/
+
+/*  bhoechie tab */
+div.bhoechie-tab-container {
+  z-index: 10;
+  background-color: #ffffff;
+  padding: 0 !important;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+  margin-left: 50px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  -moz-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  background-clip: padding-box;
+  opacity: 0.97;
+  filter: alpha(opacity=97);
+}
+div.bhoechie-tab-menu {
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 0;
+}
+div.bhoechie-tab-menu div.list-group {
+  margin-bottom: 0;
+}
+div.bhoechie-tab-menu div.list-group > a {
+  margin-bottom: 0;
+}
+div.bhoechie-tab-menu div.list-group > a .glyphicon,
+div.bhoechie-tab-menu div.list-group > a .fa {
+  color: #64b0f2;
+}
+div.bhoechie-tab-menu div.list-group > a:first-child {
+  border-top-right-radius: 0;
+  -moz-border-top-right-radius: 0;
+}
+div.bhoechie-tab-menu div.list-group > a:last-child {
+  border-bottom-right-radius: 0;
+  -moz-border-bottom-right-radius: 0;
+}
+div.bhoechie-tab-menu div.list-group > a.active,
+div.bhoechie-tab-menu div.list-group > a.active .glyphicon,
+div.bhoechie-tab-menu div.list-group > a.active .fa {
+  background-color: #64b0f2;
+  background-image: #64b0f2;
+  color: #ffffff;
+}
+div.bhoechie-tab-menu div.list-group > a.active:after {
+  content: "";
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  margin-top: -13px;
+  border-left: 0;
+  border-bottom: 13px solid transparent;
+  border-top: 13px solid transparent;
+  border-left: 10px solid #64b0f2;
+}
+
+div.bhoechie-tab-content {
+  background-color: #ffffff;
+  /* border: 1px solid #eeeeee; */
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
+  display: none;
+}
+.clear {
+  clear: both;
+}
+
+/* Absolute Center Spinner */
+.overlay {
+  overflow: hidden;
+  display: none;
+}
+.overlay .loading {
+  position: fixed;
+  z-index: 9999;
+  height: 2em;
+  width: 2em;
+  overflow: visible;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+/* Transparent Overlay */
+.overlay .loading:before {
+  content: "";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* :not(:required) hides these rules from IE9 and below */
+.overlay .loading:not(:required) {
+  /* hide "loading..." text */
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+
+.overlay .loading:not(:required):after {
+  content: "";
+  display: block;
+  font-size: 10px;
+  width: 1em;
+  height: 1em;
+  margin-top: -0.5em;
+  -webkit-animation: spinner 1500ms infinite linear;
+  -moz-animation: spinner 1500ms infinite linear;
+  -ms-animation: spinner 1500ms infinite linear;
+  -o-animation: spinner 1500ms infinite linear;
+  animation: spinner 1500ms infinite linear;
+  border-radius: 0.5em;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.75) 1.5em 0 0 0,
+    rgba(0, 0, 0, 0.75) 1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) 0 1.5em 0 0,
+    rgba(0, 0, 0, 0.75) -1.1em 1.1em 0 0, rgba(0, 0, 0, 0.5) -1.5em 0 0 0,
+    rgba(0, 0, 0, 0.5) -1.1em -1.1em 0 0, rgba(0, 0, 0, 0.75) 0 -1.5em 0 0,
+    rgba(0, 0, 0, 0.75) 1.1em -1.1em 0 0;
+  box-shadow: rgba(0, 0, 0, 0.75) 1.5em 0 0 0,
+    rgba(0, 0, 0, 0.75) 1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) 0 1.5em 0 0,
+    rgba(0, 0, 0, 0.75) -1.1em 1.1em 0 0, rgba(0, 0, 0, 0.75) -1.5em 0 0 0,
+    rgba(0, 0, 0, 0.75) -1.1em -1.1em 0 0, rgba(0, 0, 0, 0.75) 0 -1.5em 0 0,
+    rgba(0, 0, 0, 0.75) 1.1em -1.1em 0 0;
+}
+
+/* Animation */
+
+@-webkit-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-o-keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes spinner {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

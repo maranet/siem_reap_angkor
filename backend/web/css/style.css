@@ -1,0 +1,76 @@
+#news-status label,
+#newsletter-status label,
+#country-status label,
+#employeeposition-status label,
+#supplierprofile-status label,
+#supplierdepartment-status label,
+#supplierposition-status label,
+#supplierprofilecontact-status label, 
+#employeeprofile-status label,
+#supplierprofiletype-status label,
+#product-status label,
+#producttype-status label,
+#sop-status label,
+#soparticle-status label,
+#leavetypename-status label,
+#quotationtemplate-status label,
+#kpi-status label,
+#kpistep-status label,
+#profitandlossaccounts-status label,
+#balancesheetaccounts-status label,
+#account-status label,
+#task-status label,
+#task-assign_type label,
+#leadcompetitor-status label,
+#leaddepartment-status label,
+#leadposition-status label,
+#leadcontactprofile-status label,
+#customercontactprofile-status label,
+#contactgroup-status label,
+#contact-status label,
+#contact-decision_maker label,
+#project-status label,
+#kpistep-is_track label {
+  margin-right: 5px;
+}
+.select2-selection__arrow {
+  width: 18px !important;
+}
+.hide-img {
+  display: none !important;
+}
+.note-btn-group.btn-group.note-insert {
+  display: none;
+}
+textarea.form-control {
+  height: 200px !important;
+}
+form div.required label.control-label:after {
+  font-family: FontAwesome;
+  content: " \f2dc ";
+  content: " * ";
+  color: red;
+  font-size: 15px;
+  vertical-align: top;
+}
+.label {
+  font-weight: 400 !important;
+}
+/*.btn_width {
+    width: 46%!important;
+}*/
+.date_picker{
+  cursor: auto!important;
+  width: 100%!important;
+}
+.margin_bottom {
+  margin-bottom: none!important;
+}
+.panel-title {
+  padding: 0 !important;
+}
+.append_product{
+    margin-top: 31px!important;
+}
+
+

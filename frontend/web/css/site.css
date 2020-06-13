@@ -1,0 +1,304 @@
+/*@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap");
+/* menu style======= */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Noto Serif", serif !important;
+}
+.navbar-right a {
+  font-family: "Noto Serif", serif !important;
+  text-transform: uppercase;
+  /* margin-top: 10px; */
+}
+.navbar {
+  /*position: absolute !important;*/
+  padding-bottom: 0px !important;
+  display: flex !important;
+  -webkit-box-shadow: 0px 3px 8px -6px rgba(0, 0, 0, 0.43) !important;
+  -moz-box-shadow: 0px 3px 8px -6px rgba(0, 0, 0, 0.43) !important;
+  box-shadow: 0px 3px 8px -6px rgba(0, 0, 0, 0.43) !important;
+  height: 85px;
+}
+.navbar-inverse {
+  background-color: #fff !important;
+  border-color: #c80015;
+  padding-bottom: 10px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar- inverse .navbar-nav > .active > a:hover {
+  background-color: #fff !important;
+  color: #c80015 !important;
+}
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #c80014 !important;
+  background-color: transparent;
+}
+.navbar-right {
+  margin-right: 45px !important;
+}
+nav#w0 {
+  background-color: #fff;
+}
+ul#w1 {
+  /*margin-top: 25px;*/
+  margin: 17px auto;
+}
+.navbar > .container .navbar-brand,
+.navbar > .container-fluid .navbar-brand {
+  margin-left: 45px;
+  /*margin-bottom: -14px;*/
+  /*width: 100%;*/
+}
+.container-fluid > .navbar-collapse,
+.container-fluid > .navbar-header,
+.container > .navbar-collapse,
+.container > .navbar-header {
+  margin-right: -15px;
+  margin-left: -15px;
+  background: #fff;
+}
+/* menu style======= */
+.footer {
+  padding: 50px 0;
+  background-color: #fff;
+  box-shadow: 0px 0px 16px -5px #d3d3d3;
+}
+.footer-head-text {
+  padding-bottom: 16px;
+  padding-top: 35px;
+}
+.footer-head-text h5 {
+  color: #282828;
+  font-weight: 300;
+  font-size: 22px;
+}
+.footer .contact-info .address p {
+  font-size: 13px;
+  color: #434343;
+  margin-bottom: 6px;
+}
+.footer .contact-info .phone a {
+  font-size: 13px;
+  color: #434343;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 6px;
+}
+.footer .contact-info .email a {
+  font-size: 13px;
+  color: #434343;
+  text-decoration: none;
+  margin-bottom: 6px;
+}
+.footer .contact-info .email a::before {
+  font-family: "fontawesome";
+  padding-right: 12px;
+  font-size: 16px;
+}
+.footer .contact-info .phone a::before {
+  font-family: "fontawesome";
+  padding-right: 12px;
+  font-size: 16px;
+}
+.footer .contact-info .address p::before {
+  font-family: "fontawesome";
+  padding-right: 12px;
+  font-size: 16px;
+}
+.navigation__item-list-item .address p::before {
+  font-family: "fontawesome";
+  padding-right: 12px;
+  font-size: 16px;
+}
+.navigation__item-list-item .email a::before {
+  font-family: "fontawesome";
+  padding-right: 12px;
+  font-size: 16px;
+}
+.footer .social-wrapper {
+  width: 100%;
+  text-align: left;
+  padding: 12px 0;
+}
+.footer .social-wrapper .social {
+  display: inline-flex;
+}
+.footer .social-wrapper .social a:first-child {
+  padding-left: 0;
+  margin-left: 0;
+}
+.footer .social-wrapper .social a {
+  color: #434343;
+  padding: 4px;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 0 6px;
+}
+.footer .customer-sevice ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+li,
+p,
+a {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+.footer .customer-sevice ul li a {
+  color: #434343;
+  text-decoration: none;
+  font-size: 13px;
+  transition: 0.5s;
+}
+.footer .customer-sevice ul li a::before {
+  content: "";
+  font-family: "fontawesome";
+  padding-right: 12px;
+  font-size: 16px;
+}
+/* footer====== */
+
+html,
+body {
+  height: 100%;
+  /*overflow-x: hidden;*/
+  font-family: Arial!important;
+}
+
+.wrap {
+  /*min-height: 100%;*/
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
+.wrap > .container {
+  /*padding: 70px 15px 20px;*/
+}
+
+/*.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}*/
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+.not-set {
+  color: #c55;
+  font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after,
+a.desc:after {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: "Glyphicons Halflings";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  padding-left: 5px;
+}
+
+a.asc:after {
+  content: "\e151";
+}
+
+a.desc:after {
+  content: "\e152";
+}
+
+.sort-numerical a.asc:after {
+  content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+  content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+  content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+  content: "\e156";
+}
+
+.grid-view td {
+  white-space: nowrap;
+}
+
+.grid-view .filters input,
+.grid-view .filters select {
+  min-width: 50px;
+}
+
+.hint-block {
+  display: block;
+  margin-top: 5px;
+  color: #999;
+}
+
+.error-summary {
+  color: #a94442;
+  background: #fdf7f7;
+  border-left: 3px solid #eed3d7;
+  padding: 10px 20px;
+  margin: 0 0 15px 0;
+}
+
+/* align the logout "link" (button in form) of the navbar */
+.nav li > form > button.logout {
+  padding: 15px;
+  border: none;
+}
+
+.form-control {
+    padding: 6px 12px!important;
+}
+@media (max-width: 767px) {
+  .nav li > form > button.logout {
+    display: block;
+    text-align: left;
+    width: 100%;
+    padding: 10px 15px;
+  }
+}
+
+.nav > li > form > button.logout:focus,
+.nav > li > form > button.logout:hover {
+  text-decoration: none;
+}
+
+.nav > li > form > button.logout:focus {
+  outline: none;
+}
+img.img-logo {
+  width: 250px;
+}
+a.btn.btn-primary {
+    /*background: #cccccc;*/
+    /*padding: 10px;*/
+    /*text-decoration: none;*/
+    /*color: black;*/
+}
+/*.datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-left.datepicker-orient-top {
+    position: fixed;
+}*/
+*/
